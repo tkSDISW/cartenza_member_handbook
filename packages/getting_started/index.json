@@ -1,6 +1,6 @@
 {
   "package": "getting_started",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
@@ -65,6 +65,14 @@
       "title": "## Seeing Your Repo's Config: the Chips on the Notebook View",
       "tags": [],
       "file_path": "entries/note-0006-540a1262f9bc4c4c8cbf2c992910c6e6.md"
+    },
+    {
+      "id": "note-0007-050e1cb0cee7427f8df9513180859a6c",
+      "type": "note",
+      "timestamp": "2026-09-17T11:45:17Z",
+      "title": "## Entry IDs: What the Prefix Means, and Where the Number Co",
+      "tags": [],
+      "file_path": "entries/note-0007-050e1cb0cee7427f8df9513180859a6c.md"
     }
   ]
 }
