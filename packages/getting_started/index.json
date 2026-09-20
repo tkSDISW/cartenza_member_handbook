@@ -1,6 +1,6 @@
 {
   "package": "getting_started",
-  "entry_count": 9,
+  "entry_count": 10,
   "entries": [
     {
       "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
@@ -73,6 +73,14 @@
       "title": "## Entry IDs: What the Prefix Means, and Where the Number Co",
       "tags": [],
       "file_path": "entries/note-0007-050e1cb0cee7427f8df9513180859a6c.md"
+    },
+    {
+      "id": "note-0008-c49255e7ec3f4785bcdd33fc4f0be7c2",
+      "type": "note",
+      "timestamp": "2026-09-20T14:33:28Z",
+      "title": "## Before You Create a New Package\n\nA package is a folder of",
+      "tags": [],
+      "file_path": "entries/note-0008-c49255e7ec3f4785bcdd33fc4f0be7c2.md"
     }
   ]
 }
