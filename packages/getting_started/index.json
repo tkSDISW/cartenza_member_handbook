@@ -1,6 +1,6 @@
 {
   "package": "getting_started",
-  "entry_count": 10,
+  "entry_count": 11,
   "entries": [
     {
       "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
@@ -81,6 +81,14 @@
       "title": "## Before You Create a New Package\n\nA package is a folder of",
       "tags": [],
       "file_path": "entries/note-0008-c49255e7ec3f4785bcdd33fc4f0be7c2.md"
+    },
+    {
+      "id": "note-0009-a17e3b51b35745e19b60d3ffafbae978",
+      "type": "note",
+      "timestamp": "2026-09-21T16:06:36Z",
+      "title": "## Git Words, Cartenza Words, and Who Is Conducting\n\nCartenz",
+      "tags": [],
+      "file_path": "entries/note-0009-a17e3b51b35745e19b60d3ffafbae978.md"
     }
   ]
 }
